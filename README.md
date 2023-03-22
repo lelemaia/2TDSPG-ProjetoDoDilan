@@ -1,2 +1,2 @@
 # 2TDSPG-ProjetoDoDilan
-Projeto exemplo de uso do gGt na empresa do Dilan
+Projeto exemplo de uso do Git na empresa do Dilan
